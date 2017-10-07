@@ -30,12 +30,6 @@ using namespace std;
 
 int main()
 {
-    float num = 1.55;
-    float fractional;
-    
-    fractional = num - static_cast<int>(num);
-    cout << fractional << endl << endl;
-    
     int intUserTimeInputHours;
     
     float fltUserTimeInput,
